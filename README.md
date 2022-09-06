@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://i.postimg.cc/jjGRdXWy/SPA.png">
+    <img src="https://i.postimg.cc/tRxqsLyw/gitfav.png">
   <picture/>
 </p>
 
